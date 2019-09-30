@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
+// following are the very basic approaches
 
+//method 1
+/*
 bool isPrime(int n) 
 { 
     // Corner case 
@@ -13,8 +16,12 @@ bool isPrime(int n)
   
     return true; 
 }
+*/
  //Time complexity of this solution is O(n)
  
+ 
+ 
+ //method 2
  bool isPrime(int n) 
 { 
     // Corner cases 

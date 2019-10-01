@@ -8,6 +8,7 @@ Clean example implementations of data structures and algorithms written in diffe
 
 ## Contribution
  * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
+ * There is a list of algorithms, data structures, puzzles and ciphers in [IMPLEMENTATIONS.md](IMPLEMENTATIONS.md) to give an idea.
  * PRs are welcome. To begin developing, follow the structure:
 
    > algorithm_name/language-name/file_name.extension

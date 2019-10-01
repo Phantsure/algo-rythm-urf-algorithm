@@ -56,6 +56,7 @@ Clean example implementations of data structures and algorithms written in diffe
    * Udacity
       * [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
       * [Intro to algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+
    * EdX
       * [Algorithms](https://www.edx.org/course/algorithms-iitbombayx-cs213-3x-0)
       * [Algorithms and data structures](https://www.edx.org/course/algorithms-data-structures-microsoft-dev285x)
@@ -69,10 +70,13 @@ Clean example implementations of data structures and algorithms written in diffe
    * Stony Brook University
      * [Skiena's algorithms lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 * **Online classes (paid)**
-  * Udemy 
-      * [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
-      * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
-      * [Learning Algorithms in JavaScript from Scratch](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/)
+   * Udemy
+     * [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
+     * [Python for Data Structures, Algorithms, and Interviews!](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/)
+     * [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
+     * [Learning Algorithms in JavaScript from Scratch](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/)
+   * Pluralsight
+     * [Introduction to Data Structures and Algorithms in C++](https://www.pluralsight.com/courses/cplusplus-data-structures-algorithms)
  * **Coding Practice Sites**
     * [HackerRank](https://www.hackerrank.com/)
     * [HackerEarth](https://www.hackerearth.com/)

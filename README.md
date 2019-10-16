@@ -23,7 +23,7 @@ Clean example implementations of data structures and algorithms written in diffe
  * Beautify and cleanup your code for easier reading.
 
 ## Resources
-
+<!--
  Curated list of resources dealing with algorithms.
 
  * **Books**
@@ -34,7 +34,9 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
    * [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=zg_bs_3870_3?_encoding=UTF8&psc=1&refRID=CBQSARF3C86P7FMQ4DEV)
    * [Algorithms](https://www.amazon.in/Algorithms-Robert-Sedgewick/dp/032157351X)
+   -->
  * **Sites**
+ <!--
    * [Algorithms and Data Structures -Emaxx](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
    * [All Good Tutorials on Codeforces](http://codeforces.com/blog/entry/57282)
    * [DS & Algo + Maths + C++](http://codeforces.com/blog/entry/13529)
@@ -42,10 +44,13 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Algorithms - Tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
    * [Algorithms - Princetone edu](https://algs4.cs.princeton.edu/home/)
    * [Data structures and algorithms - Hackr](https://hackr.io/tutorials/learn-data-structures-algorithms)
-   * [Data science - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+   * [Data science - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)-->
    * [Fundamentals Of Algorithms- Geeks For Geeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+   <!--
    * [Visual Algorithm - visualising data structures and algorithms through animation](https://visualgo.net/en)
+-->
    * [Java Algorithms - Geeks For Geeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+   <!--
    * [Data Structure and Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * **Online classes (Free)**
   * Coursera 
@@ -77,6 +82,7 @@ Clean example implementations of data structures and algorithms written in diffe
      * [Learning Algorithms in JavaScript from Scratch](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/)
    * Pluralsight
      * [Introduction to Data Structures and Algorithms in C++](https://www.pluralsight.com/courses/cplusplus-data-structures-algorithms)
+     -->
  * **Coding Practice Sites**
     * [HackerRank](https://www.hackerrank.com/)
     * [HackerEarth](https://www.hackerearth.com/)

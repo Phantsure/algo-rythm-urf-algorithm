@@ -104,3 +104,7 @@ Clean example implementations of data structures and algorithms written in diffe
     * [CodingBat](https://codingbat.com)
     * [CodeGround](https://codeground.in/online-coding-test.html)
     * [CoderByte](https://coderbyte.com/)
+    * [ICPC](https://icpc.baylor.edu/)
+    * [GCC](https://www.geeksforgeeks.org/)
+    * [Exercism](https://exercism.io/)
+    * [Programmr](http://www.programmr.com/)
